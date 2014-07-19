@@ -456,16 +456,6 @@ Die letzte, zu den Akten gelegte Bewerbung stammt vom 17.3.1943
 der Preußischen Staatsbibliothek lautet, dass die "Neueinstellung von
 Personal nicht mehr zulässig ist."
 
----
-
-**Frauke Mahrt-Thomsen**, Jahrgang 1943, aufgewachsen in Schleswig-Holstein,
-1964-67 Ausbildung zur Diplom-Bibliothekarin in Berlin, 1967-2008
-Tätigkeit an der Stadtbibliothek (Friedrichshain-)Kreuzberg, 1975-2002
-als Leiterin einer Stadtteilbibliothek, 1988-2011 Mitglied von Akribie
-(Arbeitskreis Kritischer BibliothekarInnen), ab 2011 Arbeitskreis
-Kritische Bibliothek, seit 2008 Mitarbeit im Netzwerk der
-deutschsprachigen Frauenarchive und -bibliotheken.
-
 [^1]: Personalstand der Preußischen Staatsbibliothek, in: Acta PrSB,
 Generaldirektion Hugo Andres Krüss, Nr. 263 (1939-1944).
 
