@@ -17,9 +17,6 @@ final
 %\usepackage{amsmath}
 \usepackage[utf8x]{inputenc}
 \usepackage [hyphens]{url}
-
-\usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=blue,
-breaklinks= true]{hyperref}
 \usepackage{booktabs} 
 \usepackage[left=2.4cm,right=2.4cm,top=2.3cm,bottom=2cm,includeheadfoot]{geometry}
 \usepackage{eurosym}
@@ -66,6 +63,9 @@ $endif$
 $for(header-includes)$
 $header-includes$
 $endfor$
+
+\usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=blue,
+breaklinks= true]{hyperref}
 
 \date{}
 \begin{document}
