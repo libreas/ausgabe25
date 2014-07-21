@@ -4,7 +4,7 @@ Erstleser: da die Fußballbücher für die Jungs und dort die Pferdebücher
 für die Mädchen". In der Belletristik-Abteilung der Jenaer
 Stadtbibliothek reihen sich in einem Regal mit der Beschriftung "Familie
 / Frauen / Liebe" Romane mit Titeln wie "In einer heißen Sommernacht",
-"Was dem Herzen gefällt" und "Strom des Schicksals" aneinander.
+"Was dem Herzen gefällt" und "Strom des Schicksals"[^1] aneinander.
 
 Das Thema *Gender* spielt im deutschen Bibliothekswesen momentan kaum
 eine Rolle: Vielmehr stoßen Geschlechterfragen in Bezug auf Bibliotheken
@@ -40,12 +40,12 @@ bestehenden Geschlechterrollen bei.
 Eine Untersuchung oder Statistik, die sich mit geschlechterspezifischen
 Angeboten in Bibliotheken befasst, gibt es bisher nicht, obwohl das
 Konzept des Gender Mainstreaming eine Bestandsaufnahme der aktuellen
-Situation vorsieht. Dass eine solche Analyse dringend nötig ist, hat
+Situation vorsieht.[^2] Dass eine solche Analyse dringend nötig ist, hat
 Susanne Korb bereits 2008 festgestellt: "Um den Gender
 Mainstreaming-Prozess zu initiieren, fortzuentwickeln und Erfolge zu
 erzielen, ist es erforderlich, in analytischer Weise den Ist-Zustand zu
 recherchieren, zu kennen und öffentlich bewusst zu machen, um
-Handlungsoptionen daraus abzuleiten".
+Handlungsoptionen daraus abzuleiten".[^3]
 
 Sucht man nach Publikationen zu *Gender* und Bibliotheken, stellt man
 fest: Zu dem Thema wurde bisher wenig veröffentlicht. Auch auf 
@@ -57,7 +57,7 @@ Bibliotheken kaum Sensibilität vorhanden ist.
 
 ### Warum ist die mangelnde Gender-Sensibilität problematisch?
 
-"Als Frau wird man nicht geboren, zur Frau wird man gemacht.": Simone de
+"Als Frau wird man nicht geboren, zur Frau wird man gemacht."[^4]: Simone de
 Beauvoir legte 1949 in ihrem Werk "Das andere Geschlecht" erstmals dar,
 wie Geschlechterrollen nicht von Natur aus angeboren, sondern soziale
 Prozesse sind – und damit veränderbar. Das biologische Geschlecht
@@ -66,7 +66,7 @@ festgemacht wird, wird vom sozialen Geschlecht (*gender*) unterschieden.
 Es gibt also weder Interessen noch bestimmte Leseverhalten, die Personen
 aufgrund ihres biologischen Geschlechtes zugeschrieben werden können; es
 gibt lediglich Interessen, die sie in ihrer Sozialisation als Junge bzw.
-Mädchen entwickelt haben. Diese  Interessen und Verhaltensweisen, die
+Mädchen entwickelt haben.[^5] Diese  Interessen und Verhaltensweisen, die
 von Menschen aufgrund ihrer Geschlechtszugehörigkeit erwartet werden,
 werden als Geschlechterrollen bezeichnet.
 
@@ -174,25 +174,25 @@ Rendtdorff, Barbara (Hrsg.): Geschlechterforschung : Theorien, Thesen,
 Themen zur Einführung / Barbara Rendtdorff... - Stuttgart : Kohlhammer,
 2011. - 237 S.
 
-In einer heißen Sommernacht : Roman / Sandra Brown.  Aus dem Amerikan.
+[^1]:In einer heißen Sommernacht : Roman / Sandra Brown.  Aus dem Amerikan.
 von Claudia Geng. - Augsburg : Weltbild, 2012. - 287 S.Was dem Herzen
 gefällt / Ilse Gräfin von Bredow. - München [u.a.] : Scherz, 2007. - 255
 S.; Strom des Schicksals : Roman / Gwen Bristow. - Augsburg: Weltbild,
 479 S.
 
-Pinl, Claudia: Gender Mainstreaming - ein unterschätztes Konzept /
+[^2]:Pinl, Claudia: Gender Mainstreaming - ein unterschätztes Konzept /
 Claudia Pinl // In: Aus Politik und Zeitgeschichte, B. 33 -34 (2002), S.
 3.
 
-Korb, Susanne: Gender Budget – Konzept und Bedeutung für das Management
+[^3]:Korb, Susanne: Gender Budget – Konzept und Bedeutung für das Management
 Öffentlicher Bibliotheken / vorgelegt von Susanne Korb. - Berlin, 2008.
 - 415 S. Online-Ausg.: Gender budget: Konzept und Bedeutung für das
 Management Öffentlicher Bibliotheken Berlin, Humboldt-Univ., Diss.,
 2008,  S. 110.
 
-Beauvoir, Simone de: Le deuxième sexe / Simone de Beauvoir. 47. éd.. —
+[^4]:Beauvoir, Simone de: Le deuxième sexe / Simone de Beauvoir. 47. éd.. —
 [Paris] : Gallimard, 1950. - S. 13.
 
-Rendtdorff, Barbara (Hrsg.): Geschlechterforschung : Theorien, Thesen,
+[^5]:Rendtdorff, Barbara (Hrsg.): Geschlechterforschung : Theorien, Thesen,
 Themen zur Einführung / Barbara Rendtdorff... - Stuttgart : Kohlhammer,
 2011. - S. 220 ff.
