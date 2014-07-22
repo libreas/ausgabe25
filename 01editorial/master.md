@@ -74,6 +74,7 @@ aufgefallen, dass es einen Haufen von Texten gibt, die sich mit dem
 Thema befassen, bis hin zu empirischen und soziologischen Studien, die
 aber nicht mehr referenziert werden. Das ist doch schon erstaunlich.
 
+![Redaktionsorte VI (Berlin-Mitte, Juli 2014)](editorialbild.jpg)
 
 **HS:** Nachrufe aus der Zeit, in der Bona Peiser gelebt hat, habe ich nicht
 gefunden. Ich bin eher auf Nachrufe von Bibliothekarinnen gestossen, die
