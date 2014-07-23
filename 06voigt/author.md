@@ -1,0 +1,5 @@
+---
+
+**Marion Voigt** M. A. hat nach der Ausbildung zur Sortimentsbuchhändlerin
+Slawistik, mittelalterliche und osteuropäische Geschichte studiert. Seit
+1996 ist sie als Lektorin und Literaturagentin selbstständig.
