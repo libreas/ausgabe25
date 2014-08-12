@@ -1,4 +1,4 @@
-> *Version vom 08. August 2014. Bitte beachten Sie folgenden Hinweis: [In eigener Sache: De- und Republikation des Gesprächs mit Antje Kellersohn (LIBREAS #25)](https://libreas.wordpress.com/2014/08/09/interview_antje_kellersohn/])*
+> *Version vom 08. August 2014. Bitte beachten Sie folgenden Hinweis: [In eigener Sache: De- und Republikation des Gesprächs mit Antje Kellersohn (LIBREAS #25)](https://libreas.wordpress.com/2014/08/09/interview_antje_kellersohn/)*
 
 
 **Frau Kellersohn, wir haben uns vor etwa 12 Jahren kennengelernt, als
