@@ -60,8 +60,7 @@ Mann Beiträge nach Deutschland sendete. Kurz vor Kriegsende wurde sie
 schließlich zur Botschaft der Vereinigten Staaten in London versetzt, um
 eine europäische Nachkriegsillustrierte, "VOIR", zu gründen. 
 
-### 2. Von der Internationalen Jugendbuchausstellung zur Gründung der
-Internationalen Jugendbibliothek
+### 2. Von der Internationalen Jugendbuchausstellung zur Gründung der Internationalen Jugendbibliothek
 
 Als der Krieg zu Ende war und Amerika eine der vier Besatzungsmächte im
 besiegten Deutschland wurde, startete man das *Reeducation Program* mit
@@ -140,7 +139,7 @@ schließlich mit einer der schönsten Buchsendungen zur Ausstellung
 beitrug (Lepman 1964, 62 f.).
 
 Als ersten Ausstellungsort wählte man München, das trotz seiner jüngsten
-schwarzen Vergangenheit – war es doch die Wiege der nazistischen
+braunen Vergangenheit – war es doch die Wiege der nazistischen
 Bewegung gewesen – zum geistigen Zentrum der Bundesrepublik auserkoren
 war. Ein Gebäude war von den Bomben verschont worden: das Haus der
 Kunst. Dieses erste Monumentalgebäude des nationalsozialistischen
@@ -149,7 +148,7 @@ Deutschen Kunst" zum Sinnbild von der Unterdrückung von Künstlern, deren
 Kunstwerke als "entartet" diffamiert und von der "Großen Deutschen
 Kunstausstellung", die während der Nazi-Zeit dort einmal im Jahr
 stattfand, entfernt wurden. Inzwischen diente das Haus als
-amerikanisches Offizierskasino. Als sie die großen Räume für die möglich
+amerikanisches Offizierskasino. Als sie die großen Räume für die mögliche
 Nutzung als Ausstellungsraum besichtigte, war sich Jella Lepman aber
 sicher: das wird es sein, das Schicksal hatte es so gewollt. Dieses
 Gebäude war unversehrt geblieben, damit "die internationalen
@@ -935,7 +934,7 @@ bauen weitere Brücken, die zur Völkerverständigung, zur Toleranz und zum
 Frieden beitragen wollen.
 
 Jella Lepman war eine außerordentliche Frau, der wir so Vieles zu
-verdanken haben: die Gründung der Internationalen Jugendbibliothek,
+verdanken haben: die Gründung der **Internationalen Jugendbibliothek**,
 einer einzigartigen Institution, die weltbekannt ist und keinen
 Vergleich kennt, die Etablierung der Kinderliteratur in der
 Kulturdebatte und die Förderung der Kinderbuchkultur weltweit sowie die
